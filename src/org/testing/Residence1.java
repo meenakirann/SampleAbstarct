@@ -4,6 +4,7 @@ public class Residence1 implements Residence  {
 
 	public void nellore1() {
 		System.out.println("nellore1");
+		System.out.println("Meenakiran");
 		
 	}
 	public void nellore() {
