@@ -3,9 +3,7 @@ package org.testing;
 public class Residence1 implements Residence  {
 
 	public void nellore1() {
-
 		System.out.println("nellore7");
-		
 	}
 	public void nellore() {
 		System.out.println("local");
